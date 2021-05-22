@@ -1,0 +1,20 @@
+Country: Ireland
+Cases -  cumulative total: 242402
+Cases -  cumulative total  per 100000 population: 4882.77
+Cases -  Last 24hrs: 297
+Cases -  Last 7 Days: 2679
+
+Average of Cases in the last 7 days: 21682.71
+Highest cases in the last 24hrs: India
+
+Highest cases per 100000 population: 
+Andorra: 16360.58
+Montenegro: 15132.1
+Czechia: 14934.66
+San Marino: 14762.21
+Gibraltar: 12733.37
+Slovenia: 10972.39
+Luxembourg: 10309.56
+Israel: 9666.94
+Aruba: 9515.2
+Bahrain: 9457.94

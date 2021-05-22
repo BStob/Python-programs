@@ -1,0 +1,7 @@
+Name,Subject,Mark
+Joe,Maths,55
+Mary,Maths,77
+Jim,Maths,50
+Jack,Maths,33
+Ali,Maths,87
+Jane,Maths,44
